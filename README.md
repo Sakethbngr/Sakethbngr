@@ -26,10 +26,9 @@ improved safety and situational awareness.
 -->
 ### Reach Out:
 - 📧 Email: [sakethbngr@gmail.com](mailto:sakethbngr@gmail.com)
-<!-- - ☎️ Phone: +1 (763) 327-6663-->
 - 🌐 GitHub: [Sakethbngr](https://github.com/Sakethbngr)
 - 🔗 LinkedIn: [saketh-narayan-banagiri](https://www.linkedin.com/in/saketh-narayan-banagiri)
-
+<!-- - ☎️ Phone: +1 (763) 327-6663-->
 
 
 <!-- ### Languages and Tools:
@@ -57,5 +56,5 @@ improved safety and situational awareness.
 - GPA: 3.6/4.0 in Master of Engineering in Robotics.
 - Active contributor to autonomous vehicle navigation and human-robot interaction research.
 
-[Click Here for My Resume](URL-to-Your-Resume)
+[Click Here for My Resume](https://drive.google.com/file/d/1o2MYfVo5NyKNTswWBF2MliddS1Menhk3/view?usp=drive_link)
 
