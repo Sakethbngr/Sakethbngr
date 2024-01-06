@@ -25,7 +25,7 @@ improved safety and situational awareness.
 - **Industrial Automation:** Streamlining robotic systems for enhanced efficiency.
 -->
 ### Reach Out:
-- 📧 Email: [sakethbngr@gmail.com](mailto:sakethbngr@gmail.com)
+- Email: <a href="mailto:sakethbngr@gmail.com"><img src="https://img.icons8.com/ios-filled/50/000000/secured-letter.png" width="20" height="20" alt="Email"/></a> sakethbngr@gmail.com
 - 🌐 GitHub: [Sakethbngr](https://github.com/Sakethbngr)
 - 🔗 LinkedIn: [saketh-narayan-banagiri](https://www.linkedin.com/in/saketh-narayan-banagiri)
 <!-- - ☎️ Phone: +1 (763) 327-6663-->
