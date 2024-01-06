@@ -4,7 +4,7 @@
 
 ## Master of Engineering in Robotics | Aspiring Innovator in Autonomous Systems
 
-I'm Saketh, an enthusiastic robotics engineer with a Master's from the University of Maryland, where I honed my skills in computer vision, machine learning, and path planning. My drive for excellence is evident in my work, both academic and professional, where I leverage cutting-edge technologies to advance the field of autonomous systems.
+I'm Saketh, an enthusiastic robotics engineer with a Master's from the University of Maryland, where I honed my skills in computer vision, AI/ML, data science and path planning. My drive for excellence is evident in my work, both academic and professional, where I leverage cutting-edge technologies to advance the field of autonomous systems.
 
 ### Currently Working On:
 - **Social Navigation:** Developing algorithms to enchance robot’s ability to navigate complex urban environments, emphasizing pedestrian and vehicle detection at street crossings for
