@@ -16,14 +16,14 @@ improved safety and situational awareness.
 
 ### Skills at a Glance:
 - **Languages:** Python, C++, C, SQL
-- **Libraries & Tools:** OpenCV, TensorFlow, PyTorch, ROS, Gazebo, and more.
-- **Specializations:** Computer Vision, Path Planning, Machine Learning, Data Operations.
+- **Libraries & Tools:** OpenCV, TensorFlow, PyTorch, ROS, ROS2, MoveIt, MoveIt2, Gazebo, SolidWorks, Autodesk, ANSYS, Fusion 360.
+- **Specializations:** Computer Vision, Path Planning, Machine Learning, Data Science, Data Analysis.
 
-### Research & Projects:
+<!-- -### Research & Projects:
 - **Social Navigation Framework:** Utilizing YOLOv8 for dynamic object detection in urban environments.
 - **Disaster Tweet Analysis:** Implementing RoBERTa to classify tweets for disaster response.
 - **Industrial Automation:** Streamlining robotic systems for enhanced efficiency.
-
+-->
 ### Reach Out:
 - 📧 Email: [sakethbngr@gmail.com](mailto:sakethbngr@gmail.com)
 <!-- - ☎️ Phone: +1 (763) 327-6663-->
@@ -32,7 +32,7 @@ improved safety and situational awareness.
 
 
 
-### Languages and Tools:
+<!-- ### Languages and Tools:
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="38" height="38" alt="Arduino"/>
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="38" height="38" alt="Bash"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="38" height="38" alt="C"/>
@@ -47,7 +47,7 @@ improved safety and situational awareness.
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="38" height="38" alt="TensorFlow"/>
 <img src="https://icons8.com/icons/set/sql" width="38" height="38" alt="SQL"/>
 <img src="https://techicons.dev/icons/ros" width="38" height="38" alt="ROS"/>
-<img src="https://techicons.dev/icons/gazebo" width="38" height="38" alt="Gazebo"/>
+<img src="https://techicons.dev/icons/gazebo" width="38" height="38" alt="Gazebo"/> -->
 <!-- Add more icons as needed -->
 
 
