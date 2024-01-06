@@ -26,10 +26,9 @@ improved safety and situational awareness.
 -->
 ### Reach Out:
 - <a href="mailto:sakethbngr@gmail.com"><img src="https://img.icons8.com/ios-filled/50/000000/secured-letter.png" width="20" height="20" alt="Email"/></a> sakethbngr@gmail.com
-- GitHub: <a href="https://github.com/Sakethbngr"><img src="https://img.icons8.com/material-outlined/24/000000/github.png" width="20" height="20" alt="GitHub"/></a> [Sakethbngr](https://github.com/Sakethbngr)
-- LinkedIn: <a href="https://www.linkedin.com/in/saketh-narayan-banagiri"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="20" height="20" alt="LinkedIn"/></a> [saketh-narayan-banagiri](https://www.linkedin.com/in/saketh-narayan-banagiri)
+- <a href="https://github.com/Sakethbngr"><img src="https://img.icons8.com/material-outlined/24/000000/github.png" width="20" height="20" alt="GitHub"/></a> [Sakethbngr](https://github.com/Sakethbngr)
+- <a href="https://www.linkedin.com/in/saketh-narayan-banagiri"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="20" height="20" alt="LinkedIn"/></a> [saketh-narayan-banagiri](https://www.linkedin.com/in/saketh-narayan-banagiri)
 
-<!-- - ☎️ Phone: +1 (763) 327-6663-->
 
 
 <!-- ### Languages and Tools:
