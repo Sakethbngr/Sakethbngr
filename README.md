@@ -32,28 +32,24 @@ improved safety and situational awareness.
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+### Languages and Tools:
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="38" height="38" alt="Arduino"/>
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="38" height="38" alt="Bash"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="38" height="38" alt="C"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="38" height="38" alt="C++"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="38" height="38" alt="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="38" height="38" alt="Linux"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="38" height="38" alt="OpenCV"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="38" height="38" alt="Pandas"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38" height="38" alt="Python"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="38" height="38" alt="PyTorch"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="38" height="38" alt="Scikit-Learn"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="38" height="38" alt="TensorFlow"/>
+<img src="https://icons8.com/icons/set/sql" width="38" height="38" alt="SQL"/>
+<img src="https://techicons.dev/icons/ros" width="38" height="38" alt="ROS"/>
+<img src="https://techicons.dev/icons/gazebo" width="38" height="38" alt="Gazebo"/>
+<!-- Add more icons as needed -->
 
-<!-- Icons for tools and languages mentioned in the resume but not present in the list above -->
-<!-- Replace `URL-to-Icon` with actual URLs where the icons are hosted -->
-<a href="Your-URL-for-SQL" target="_blank" rel="noreferrer"> <img src="URL-to-SQL-Icon" alt="sql" width="40" height="40"/> </a> 
-<a href="Your-URL-for-ROS" target="_blank" rel="noreferrer"> <img src="URL-to-ROS-Icon" alt="ros" width="40" height="40"/> </a> 
-<a href="Your-URL-for-Gazebo" target="_blank" rel="noreferrer"> <img src="URL-to-Gazebo-Icon" alt="gazebo" width="40" height="40"/> </a> 
-<a href="Your-URL-for-AutoCAD" target="_blank" rel="noreferrer"> <img src="URL-to-AutoCAD-Icon" alt="autocad" width="40" height="40"/> </a> 
-<a href="Your-URL-for-Tableau" target="_blank" rel="noreferrer"> <img src="URL-to-Tableau-Icon" alt="tableau" width="40" height="40"/> </a> 
-<!-- Add more as needed -->
-</p>
 
 
 
