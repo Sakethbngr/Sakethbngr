@@ -6,6 +6,8 @@
 
 I'm Saketh, an enthusiastic robotics engineer with a Master's from the University of Maryland, where I honed my skills in computer vision, AI/ML, data science and path planning. My drive for excellence is evident in my work, both academic and professional, where I leverage cutting-edge technologies to advance the field of autonomous systems.
 
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
 ### Currently Working On:
 - **Social Navigation:** Developing algorithms to enchance robot’s ability to navigate complex urban environments, emphasizing pedestrian and vehicle detection at street crossings for
 improved safety and situational awareness.
